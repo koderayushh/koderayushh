@@ -5,6 +5,10 @@ A beginner web developer learning and building in public.
 - I’m currently working on building consistency in coding
 - I’m currently learning HTML, CSS & JavaScript
 
+## 📫 Reach Me
+- X (Twitter): @ayushtwt_
+- Email: work.ayushhmishra@gmail.com
+
 <!--
 **koderayushh/koderayushh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
