@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hey, I'm Ayush 👋
+
+A beginner web developer learning and building in public.
+
+- I’m currently working on building consistency in coding
+- I’m currently learning HTML, CSS & JavaScript
 
 <!--
 **koderayushh/koderayushh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
